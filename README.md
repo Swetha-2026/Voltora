@@ -1,27 +1,27 @@
-# Full-Stack Web Application
+# 🚀 Project Title
 
-A modern, responsive full-stack web application built with **React**, **Tailwind CSS**, **Node.js**, and **Vite**.
+A brief and clear description of what this project does and who it is for.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Tailwind CSS, Lucide React, Vite
+- **Frontend:** React, Tailwind CSS, Vite
 - **Backend:** Node.js, Express
-- **Tooling & Environment:** Bolt, PostCSS, Autoprefixer, Dotenv
+- **Database:** MongoDB / PostgreSQL
+- **Tools:** Git, Postman
 
 ---
 
 ## 📁 Project Structure
 
 ```text
-├── .bolt/             # Bolt configuration and prompt files
-├── frontend/          # React frontend application
-│   ├── src/           # Components, assets, styles, and logic
-│   ├── public/        # Static assets
-│   ├── index.html     # Application entry point
-│   └── package.json   # Frontend dependencies
-├── .env               # Environment configuration
-├── package.json       # Main project configuration & dependencies
-├── tailwind.config.js # Tailwind CSS configuration
-└── README.md          # Project documentation
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── pages/
+│   └── App.jsx
+├── public/
+├── .env
+├── package.json
+└── README.md
